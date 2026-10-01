@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "ENEM THA GREAT — TDK Archive",
+  "short_name": "ENEM / TDK",
+  "description": "A pocket archive of verified ENEM walls, music, source notes and the public wall.",
+  "start_url": "./?source=install",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0b0d",
+  "theme_color": "#0b0b0d",
+  "categories": ["art", "music", "entertainment"],
+  "icons": [
+    { "src": "assets/icons/enem-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/icons/enem-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
